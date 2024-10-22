@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Archivos de construcción
+dist/
+build/
+
+# Archivos temporales y de log
+*.log
+*.tmp
+*.swp
+*.DS_Store
+
+# Configuraciones específicas del IDE
+.vscode/
+.idea/
+
+# Archivos de configuración local
+.env
+
+# Archivos generados por el sistema operativo
+Thumbs.db
+Desktop.ini
